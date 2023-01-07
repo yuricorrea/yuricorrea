@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Yuri Correa</h1>
-<h3 align="center">Professional with more than 10 years of experience, always working on projects for big companies. I have the algorithm as my main stack and Javascript has accompanied me throughout my career. I have professionally used React Native, React.js, Node.js, PHP, Java, Mysql, SQL Server, Firebase, Amazon AWS, CSS. I have a great ability to adapt to projects and technologies. I’m also a good teammate.</h3>
+<h1 align="left">Hi, I'm Yuri Correa</h1>
+<h3 align="left">Professional with more than 10 years of experience, always working on projects for big companies. I have the algorithm as my main stack and Javascript has accompanied me throughout my career. I have professionally used React Native, React.js, Node.js, PHP, Java, Mysql, SQL Server, Firebase, Amazon AWS, CSS. I have a great ability to adapt to projects and technologies. I’m also a good teammate.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
