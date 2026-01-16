@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I'm Yuri Correa</h1>
-<h3 align="left">Senior Mobile Engineer | Senior Blockchain Engineer</h3>
+<h3 align="left">Senior Mobile Engineer | Senior Blockchain Engineer</h3> 
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
